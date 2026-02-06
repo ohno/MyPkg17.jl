@@ -1,0 +1,10 @@
+name = "MyPkg17"
+uuid = "81ecd861-82b1-49b2-8115-87c207f2bd7f"
+authors = ["Shuhei Ohno"]
+version = "0.0.1"
+
+[deps]
+DocStringExtensions = "ffbed154-4ef7-542d-bbb7-c09d3a79fcae"
+
+[compat]
+julia = "1.11"
